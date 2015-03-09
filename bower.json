@@ -1,0 +1,21 @@
+{
+  "name": "angular-bugsnag",
+  "main": "angular-bugsnag.js",
+  "version": "0.1.0",
+  "authors": [
+    "Darlan Alves <me@darlanalv.es>"
+  ],
+  "description": "Integration of Bugsnag with $exceptionHandler of AngularJS",
+  "keywords": [
+    "angularjs",
+    "bugsnag"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
